@@ -1,0 +1,6 @@
+# Set text files to use LF in repo, let Git convert as needed for OS
+* text=auto
+
+# For Java files, always use LF
+*.java text eol=lf
+# For other files, specify as needed
