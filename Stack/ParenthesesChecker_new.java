@@ -39,7 +39,7 @@ class Stack {
     }
 }
 
-public class ParenthesesChecker {
+public class ParenthesesChecker_new{
     // function to check matching brackets
     public static boolean isMatchingPair(char open, char close) {
         return (open == '(' && close == ')') ||

@@ -50,7 +50,7 @@ class Bracket {
     }
 }
 
-class Main {
+class Main_bracket {
     public static void main(String[] args) {
         char[] arr = {'(','(','{','(','[',']','(',')',')','}'};
         Bracket.check(arr);
