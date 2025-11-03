@@ -44,6 +44,11 @@ This repository contains implementations of various Data Structures and Algorith
 ### 📁 [Practical Exam](./Practical_Exam/)
 - [BST (Practical)](./Practical_Exam/BST.java)
 - [Circular Linked List (Practical)](./Practical_Exam/CircularLL.java)
+- [Breadth-First Search (BFS) Example](./Practical_Exam/BFS.java)
+- [Balanced Parentheses (Practical)](./Practical_Exam/BalancedParentheses.java)
+- [Decimal to Binary (Practical)](./Practical_Exam/DecimalToBinary.java)
+- [Infix to Postfix (Practical)](./Practical_Exam/InfixToPostfix.java)
+- [Postfix Evaluation (Practical)](./Practical_Exam/PostfixEvaluation.java)
 - [Queue ADT (Practical)](./Practical_Exam/QueueADT.java)
 - [Queue using Linked List (Practical)](./Practical_Exam/QueueLL.java)
 - [Singly Linked List (Practical)](./Practical_Exam/SinglyLL.java)
@@ -62,3 +67,6 @@ This repository contains implementations of various Data Structures and Algorith
 - **Linked Lists**: Various types of linked list implementations
 - **Queue**: Queue implementations using arrays and linked lists
 - **Stack**: Stack implementations and applications like expression evaluation
+ - **Trees**: Binary search tree traversal and related operations
+ - **Graphs**: Basic graph representations and utility structures
+ - **Practical Exam**: Short practical programs — BST, circular lists, expression evaluation, conversions, and ADT implementations
