@@ -31,6 +31,26 @@ This repository contains implementations of various Data Structures and Algorith
 - [Postfix Evaluation](./Stack/postfix_evaluation.java)
 - [Reverse String using Stack](./Stack/reverse_string_using_stack.java)
 
+### 📁 [Trees](./Trees/)
+- [Binary Search Tree Traversal](./Trees/BinarySearchTreeTraversal.java)
+
+### 📁 [Graphs](./Graphs/)
+- [Graph Implementation](./Graphs/Graph.java)
+- [Graph Node](./Graphs/Node.java)
+- [Support: MyLinkedList](./Graphs/MyLinkedList.java)
+- [Support: MyQueue](./Graphs/MyQueue.java)
+- [Support: MyStack](./Graphs/MyStack.java)
+
+### 📁 [Practical Exam](./Practical_Exam/)
+- [BST (Practical)](./Practical_Exam/BST.java)
+- [Circular Linked List (Practical)](./Practical_Exam/CircularLL.java)
+- [Queue ADT (Practical)](./Practical_Exam/QueueADT.java)
+- [Queue using Linked List (Practical)](./Practical_Exam/QueueLL.java)
+- [Singly Linked List (Practical)](./Practical_Exam/SinglyLL.java)
+- [Stack ADT (Practical)](./Practical_Exam/StackADT.java)
+- [Stack using Linked List (Practical)](./Practical_Exam/StackLL.java)
+- [Circular Queue (Practical)](./Practical_Exam/circularQueue.java)
+
 ## How to Use
 
 1. Navigate to the desired folder by clicking on the links above
